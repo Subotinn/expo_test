@@ -1,0 +1,10 @@
+{
+  "name": "color-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/color-e2e/src",
+  "projectType": "application",
+  "tags": [],
+  "implicitDependencies": ["color"],
+  "// targets": "to see all targets run: nx show project color-e2e --web",
+  "targets": {}
+}
